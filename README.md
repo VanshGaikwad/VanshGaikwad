@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshgaikwad" alt="vanshgaikwad" /></a> </p>
 
-- 🔭 I’m currently working on **Adopt-pet-app**
+- 🔭 I’m currently working on **Chat - application**
 
-- 🌱 I’m currently learning **React Native, Next-js**
+- 🌱 I’m currently learning **Data structure and Algorithms, React Native, Next-js**
 
 - 📫 How to reach me **vanshgaikwad72@gmail.com**
 
