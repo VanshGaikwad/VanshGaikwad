@@ -78,9 +78,12 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanshGaikwad&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanshGaikwad&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VanshGaikwad&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshGaikwad&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
