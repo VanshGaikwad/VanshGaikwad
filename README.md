@@ -1,110 +1,103 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="28"/>
+<div align="center">
 
-I’m **Vansh Gaikwad**, a Software Developer & AI Associate Engineer from India.
+<h1>Hey, I'm Vansh</h1>
 
-I specialize in building **scalable systems, AI-driven applications, and real-time platforms** that solve practical problems.  
-From backend architecture to intelligent systems, I enjoy turning complex ideas into **production-ready, high-performance solutions**.
+<h4>Software Developer | AI Enthusiast | Backend Engineer</h4>
 
----
+<p>
+<a href="https://github.com/VanshGaikwad"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vansh-gaikwad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vanshgaikwad72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- <a href="https://leetcode.com/u/vansh-gaikwad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> -->
+</p>
 
-### 🚀 About Me
-
-- 🎓 Electronics & Telecommunication Engineering @ PICT  
-- 💻 Strong in **System Design, Backend Development & AI Systems**  
-- ⚡ Focused on building **efficient, scalable, and real-time applications**  
-- 🧠 Exploring **Machine Learning, NLP, and Generative AI**  
-- 🔁 I build fast, iterate faster, and continuously optimize systems  
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages:**  
-C++, C, Java, Python, Go  
-
-**Core CS:**  
-DSA, OS, DBMS, CN, OOP  
-
-**AI / ML:**  
-PyTorch, TensorFlow, Scikit-learn, Transformers, CNN, LSTM, Generative AI  
-
-**CV / NLP:**  
-OpenCV, MediaPipe, ASR, NLP  
-
-**Frameworks & Backend:**  
-React, Angular, Node.js, FastAPI, Django, Spring Boot  
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB  
-
-**Cloud & Systems:**  
-Docker, Kubernetes, Kafka  
+- 🎓 B.E. Electronics & Telecommunication @ PICT, Pune  
+- 💻 Software Developer Intern with experience in backend & automation systems  
+- 🤖 Passionate about AI, NLP & real-world problem solving  
+- ⚡ Love building scalable systems and intelligent applications  
 
 ---
 
-### 💼 Experience
+## 💻 Tech Stack
 
-**💻 Software Developer Intern | PICT, Pune (2026 – Present)**  
-- Built **scalable backend systems** and optimized workflows  
-- Improved system efficiency and maintainability by **40%+**  
-- Designed **production-level architecture** for institutional platforms  
+### 🚀 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**⚙️ Automation & IoT Intern | Siemens (2024)**  
-- Developed industrial automation systems using **PLC & HMI**  
-- Reduced manual processes by **50–60%**  
-- Built real-time control systems with optimized response time  
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**☕ Java Developer Intern | IVICT (Part-time)**  
-- Built a full **Institute Management System** using Spring Boot  
-- Designed **clean, scalable architecture** for long-term maintainability  
+### 🧠 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗄️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+---
+## 🚀 Featured Projects
+
+### 🔹 Academic Platform
+- Built using FastAPI + Firebase  
+- Automated notifications & scheduling  
+- Reduced manual effort by 70%  
+
+### 🔹 Behavior Tracker
+- Real-time tracking system using React + Firebase  
+- Analytics dashboard for productivity insights  
+
+### 🔹 Clinical AI System
+- NLP-based medical summarization system  
+- Converts conversations into structured insights  
 
 ---
 
-### 📌 Projects
+## 📊 GitHub Stats
 
-**📊 Unified Academic Interaction Platform**  
-- Built a centralized system for **timetable-based notifications**  
-- Implemented real-time updates using **FastAPI & Firebase**  
-- Automated schedule parsing and smart class detection  
-
-**🧠 Cognitive Behavior Intelligence Platform**  
-- Full-stack habit tracking system with **analytics dashboard**  
-- Real-time sync + custom **streak tracking logic**  
-- Optimized performance for **low latency and high engagement**  
-
-**🏥 Clinical Conversation Intelligence System (MediScribe)**  
-- AI system converting doctor-patient conversations into **structured insights**  
-- Used **ASR, NLP, BioBERT & Generative AI**  
-- Implemented **speaker diarization & context-aware summarization**  
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanshGaikwad&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanshGaikwad&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🏆 Leadership
+## 🔥 Achievements
 
-- **Secretary – IETE Student Chapter**  
-  → Led multiple technical events and boosted student engagement  
-
-- **Founder – Electrotech Club**  
-  → Built a community focused on **hands-on learning & innovation**  
+- 💪 Solved 300+ DSA problems  
+- ⚡ Built backend + AI based real-world systems  
+- 🏗 Experience in IoT, automation & scalable architecture  
 
 ---
 
-### 📈 Coding & Profiles
+## 📫 Let's Connect
 
-- 💡 LeetCode: https://leetcode.com/u/vansh-gaikwad/  
-- 🚀 Always learning, building, and scaling ideas  
-
+- 💼 [LinkedIn](https://linkedin.com/in/vansh-gaikwad)  
+- 💻 [GitHub](https://github.com/VanshGaikwad)  
+- 📧 [Email](mailto:vanshgaikwad72@gmail.com)
 ---
 
-### ⚡ Fun Side
-
-- ☕ Tea keeps me running  
-- 🎯 I can turn almost any idea into a working prototype  
-- 🤫 I love building apps that enable anonymous interaction  
-
----
-
-### 📬 Let’s Connect
-
-If you're into **AI, backend systems, or building impactful products**,  
-let’s connect and build something amazing 🚀
+⭐ *"Turning ideas into scalable systems and intelligent solutions."*
